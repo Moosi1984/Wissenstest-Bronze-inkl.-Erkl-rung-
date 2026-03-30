@@ -16,10 +16,5 @@ Diese Web-App wurde erstellt, um Mitglieder der Feuerwehrjugend beim Lernen und 
 - **icon.png** – App-Symbol
 - **README.md** – Projektbeschreibung
 
-## ✅ Installation
-1. Dateien auf GitHub hochladen  
-2. GitHub Pages aktivieren  
-3. Link teilen oder App auf dem Handy zum Startbildschirm hinzufügen
-
 ## 👨‍🚒 Autor
 Feuerwehrjugend Wissenstest-App – erstellt von Alois Moosbrugger.
