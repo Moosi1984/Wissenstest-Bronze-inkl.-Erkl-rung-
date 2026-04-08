@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rechter Knoten (Kreuzknoten)",
+    "bilder": [
+      "kreuz_1.png",
+      "kreuz_2.png",
+      "kreuz_3.png",
+      "kreuz_4.png"
+    ],
+    "erklaerung": "Der rechte Knoten, auch Kreuzknoten genannt, wird verwendet, um zwei gleich starke Leinen miteinander zu verbinden. Dabei wird zuerst das rechte Ende über das linke gelegt und anschließend das linke über das rechte. Wichtig ist, dass die Enden parallel zueinander liegen, damit der Knoten sicher hält."
+  },
+  {
+    "name": "Zimmermannsklank",
+    "bilder": [
+      "zimmer_1.png",
+      "zimmer_2.png",
+      "zimmer_3.png",
+      "zimmer_4.png"
+    ],
+    "erklaerung": "Der Zimmermannsklank dient zum Befestigen einer Leine an einem Gegenstand, beispielsweise einem Baum oder Balken. Er zieht sich unter Belastung selbst fest und hält besonders gut bei Zug."
+  },
+  {
+    "name": "Mastwurf (gestochen)",
+    "bilder": [
+      "mast_stich_1.png",
+      "mast_stich_2.png",
+      "mast_stich_3.png"
+    ],
+    "erklaerung": "Der gestochene Mastwurf wird gebildet, indem die leine zweimal um den Mast gelegt wird, und das Ende unter die zweite Windung geschoben, und festgezogen wird."
+  },
+  {
+    "name": "Mastwurf (gelegt)",
+    "bilder": [
+      "mast_legen_1.png",
+      "mast_legen_2.png",
+      "mast_legen_3.png",
+      "mast_legen_4.png"
+    ],
+    "erklaerung": "Der gelegte Mastwurf wird direkt um einen Gegenstand gelegt. Dabei wird die Leine einmal herumgeführt und anschließend gekreuzt wieder zurückgelegt."
+  },
+  {
+    "name": "Mastwurf mit halbem Schlag am Strahlrohr",
+    "bilder": [
+      "mast_strahl_1.png",
+      "mast_strahl_2.png",
+      "mast_strahl_3.png",
+      "mast_strahl_4.png",
+      "mast_strahl_5.png",
+      "mast_strahl_6.png",
+      "mast_strahl_7.png"
+    ],
+    "erklaerung": "Dieser Knoten wird verwendet, um ein Strahlrohr zu sichern. Zuerst wird ein Mastwurf gelegt, anschließend wird ein halber Schlag hinzugefügt. Dadurch wird verhindert, dass sich der Knoten löst."
+  }
+]
